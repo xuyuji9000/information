@@ -2,6 +2,12 @@
 
 This repo is used to explore concept **informatioon**.
 
+- Q: What is information?
+
+  A: Information can be thought as the resolution of uncertainty[2].
+
+    > Information needs to be resolved in certain coding.
+
 - Q: What's the relationship between *information* and *data*?
 
   A1: Data is unit of information[1].
@@ -15,8 +21,9 @@ This repo is used to explore concept **informatioon**.
 
 
 
-  # Reference
 
-  1. [Wikipedia / Data](https://en.wikipedia.org/wiki/Data)
+# Reference
 
-     
+1. [Wikipedia / Data](https://en.wikipedia.org/wiki/Data)
+
+2. [Wikipedia / Information](https://en.wikipedia.org/wiki/Information)
