@@ -8,6 +8,11 @@ This repo is used to explore concept **informatioon**.
 
     > Information needs to be resolved in certain coding.
 
+- Q: What is Code?
+
+  A: Code is a system of rules to convert information into another form for communication or storage.
+
+
 - Q: What's the relationship between *information* and *data*?
 
   A1: Data is unit of information[1].
@@ -27,3 +32,5 @@ This repo is used to explore concept **informatioon**.
 1. [Wikipedia / Data](https://en.wikipedia.org/wiki/Data)
 
 2. [Wikipedia / Information](https://en.wikipedia.org/wiki/Information)
+
+3. [Wikipedia / Code](https://en.wikipedia.org/wiki/Code)
